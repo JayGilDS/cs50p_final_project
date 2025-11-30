@@ -1,5 +1,7 @@
  # Spanish Vocabulary Learning Game
-## Video Demo:  <https://www.youtube.com/watch?v=hW8GEVUWGQ0&ab_channel=Dr.JayGil>
+## Video Demo:  <[link to Youtube](https://www.youtube.com/watch?v=hW8GEVUWGQ0&ab_channel=Dr.JayGil)>
+## Certificate: <[Certificate link](https://certificates.cs50.io/888aa2c5-1b56-4530-a1cb-46ac51cf2474.pdf?size=letter)>
+
 ## Description:
 Spanish Vocabulary Learning Game is a A Python program for practicing, learning and testing Spanish vocabulary in form a of a game.
 
